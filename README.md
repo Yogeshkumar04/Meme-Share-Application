@@ -1,6 +1,6 @@
 # Meme-Share-Application
 The Meme Share Application:
-* Meme Share Applicatoin is created by using kotlin language.
+* Meme Share Application is created by using kotlin language.
 * In this application we have followed the Singleton pattern.
 * Here We are also Using Volley and Glide librarys.
 
